@@ -1,4 +1,4 @@
-# Awesome-Hacking-e-Crypto-s-Challenges
+# Awesome-Hacking-e-Crypto-Challenges
 
 Hacking Challenge Sites:
 
