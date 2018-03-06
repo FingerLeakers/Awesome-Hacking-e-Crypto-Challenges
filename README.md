@@ -1,4 +1,8 @@
-# Awesome-Hacking-e-Crypto-Challenges
+# Awesome-Hacking-e-Crypto-Challenges 
+
+Make with: 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Spirit
 
 This is intended to be a list of websites, programs, tools and resources of various kinds, which have the purpose of providing a free space to test and increase their abilities of pentester and security experts
 
