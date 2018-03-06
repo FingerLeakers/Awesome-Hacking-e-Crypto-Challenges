@@ -2,7 +2,7 @@
 
 This is intended to be a list of websites, programs, tools and resources of various kinds, which have the purpose of providing a free space to test and increase their abilities of pentester and security experts
 
-Hacking Challenge Sites:
+#### Hacking Challenge Sites:
 
 https://www.hackthissite.org/
 
@@ -61,7 +61,7 @@ https://www.root-me.org/en/Challenges/
 http://hackmyfortress.com/
 
 
-Hack a Bank:
+#### Hack a Bank:
 
 http://crackme.cenzic.com/kelev/view/home.php
 
@@ -71,7 +71,7 @@ http://zero.webappsecurity.com/
 
 
 
-Downloads of Insecure Web Application for Testing:
+#### Downloads of Insecure Web Application for Testing:
 
 http://www.bonsai-sec.com/en/research/moth.php
 
@@ -86,7 +86,7 @@ https://github.com/psiinon/bodgeit
 https://github.com/nccgroup/CrossSiteContentHijacking
 
 
-Cypher Puzzles:
+#### Cypher Puzzles:
 
 https://simonsingh.net/cryptography/cipher-challenge/the-ciphertexts/
 
@@ -97,5 +97,5 @@ http://www.loyalty.org/%7Eschoen/rsa/
 
 The List is in is constantly updated, keep an eye on it;)
 
-
+Do you want to contribute to the project? Fork the  Repo and pull a request ;)
 
