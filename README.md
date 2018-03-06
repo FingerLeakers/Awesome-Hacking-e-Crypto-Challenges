@@ -96,4 +96,4 @@ http://www.loyalty.org/%7Eschoen/rsa/
 The List is in is constantly updated, keep an eye on it;)
 
 
-###do you want to contribute to the project? fork the repo and pull a request
+### do you want to contribute to the project? fork the repo and pull a request
