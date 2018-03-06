@@ -59,7 +59,7 @@ https://www.root-me.org/en/Challenges/
 http://hackmyfortress.com/
 
 
-### Hack a Bank:
+#### Hack a Bank:
 
 http://crackme.cenzic.com/kelev/view/home.php
 
@@ -69,7 +69,7 @@ http://zero.webappsecurity.com/
 
 
 
-### Downloads of Insecure Web Application for Testing:
+#### Downloads of Insecure Web Application for Testing:
 
 http://www.bonsai-sec.com/en/research/moth.php
 
@@ -84,7 +84,7 @@ https://github.com/psiinon/bodgeit
 https://github.com/nccgroup/CrossSiteContentHijacking
 
 
-### Cypher Puzzles:
+#### Cypher Puzzles:
 
 https://simonsingh.net/cryptography/cipher-challenge/the-ciphertexts/
 
