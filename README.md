@@ -81,6 +81,8 @@ https://github.com/bkimminich/juice-shop
 
 https://github.com/psiinon/bodgeit
 
+https://github.com/nccgroup/CrossSiteContentHijacking
+
 
 Cypher Puzzles:
 
