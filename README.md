@@ -4,7 +4,13 @@ Make with:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Spirit
 
-This is intended to be a list of websites, programs, tools and resources of various kinds, which have the purpose of providing a free space to test and increase their abilities of pentester and security experts
+This is intended to be a list of websites, programs, tools and resources of various kinds, which have the purpose of providing a free space to test and increase their abilities of pentester and security experts.
+</br>
+Do you want to contribute to the project? YOURE WELCOME ;)
+</br>
+send me a pull request or contact me howtohackitalia@gmail.com
+</br>
+For a list of free hacking books available for download, go here
 
 #### Hacking Challenge Sites:
 
@@ -100,6 +106,4 @@ http://www.loyalty.org/%7Eschoen/rsa/
 
 
 The List is in is constantly updated, keep an eye on it;)
-
-Do you want to contribute to the project? Fork the  Repo and pull a request ;)
 
