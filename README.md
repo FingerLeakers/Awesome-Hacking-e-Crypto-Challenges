@@ -6,7 +6,7 @@ Spirit
 
 This is intended to be a list of websites, programs, tools and resources of various kinds, which have the purpose of providing a free space to test and increase their abilities of pentester and security experts.
 
-For a list of free hacking books available for download, go here
+For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 #### Hacking Challenge Sites:
 
