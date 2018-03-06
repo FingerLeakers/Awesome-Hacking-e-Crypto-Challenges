@@ -1,6 +1,6 @@
 # Awesome-Hacking-e-Crypto-Challenges
 
-### Hacking Challenge Sites:
+#### Hacking Challenge Sites:
 
 https://www.hackthissite.org/
 
@@ -96,4 +96,4 @@ http://www.loyalty.org/%7Eschoen/rsa/
 The List is in is constantly updated, keep an eye on it;)
 
 
- do you want to contribute to the project? fork the repo and pull a request
+ Do you want to contribute to the project? fork the repo and pull a request ;)
