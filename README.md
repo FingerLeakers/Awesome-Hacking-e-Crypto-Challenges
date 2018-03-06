@@ -5,11 +5,7 @@ Make with:
 Spirit
 
 This is intended to be a list of websites, programs, tools and resources of various kinds, which have the purpose of providing a free space to test and increase their abilities of pentester and security experts.
-</br>
-Do you want to contribute to the project? YOURE WELCOME ;)
-</br>
-send me a pull request or contact me howtohackitalia@gmail.com
-</br>
+
 For a list of free hacking books available for download, go here
 
 #### Hacking Challenge Sites:
@@ -104,6 +100,11 @@ http://www.loyalty.org/%7Eschoen/rsa/
 
 
 
-
 The List is in is constantly updated, keep an eye on it;)
+
+</br>
+Do you want to contribute to the project? YOURE WELCOME ;)
+</br>
+send me a pull request or contact me howtohackitalia@gmail.com
+</br>
 
